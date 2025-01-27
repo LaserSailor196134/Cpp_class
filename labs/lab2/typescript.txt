@@ -1,0 +1,14 @@
+g++ -Wall -Wextra -pedantic -c driver.cpp
+g++ -Wall -Wextra -pedantic -c Country.cpp
+g++ -Wall -Wextra -pedantic -o main driver.o Country.o
+
+./main
+
+output: 
+
+no countries created, number of countries: 0
+one country created, number of countries: 1
+another country created, number of countries: 2
+USA population: 350000000
+Canada name: Canada
+one country deleted, number of countries: 1
