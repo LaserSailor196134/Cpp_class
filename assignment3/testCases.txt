@@ -1,0 +1,5 @@
+Test Cases:
+
+|John|Smith|321 street main|322 less main street|Ottawa|Ontario|B3Z 8S0|12000|
+a;lksdfjs |Linda|McMillian|||||H3I 8S3|150000|
+|Aiden|MacDonald|435 summer street||Wolfville|NS|B3B 9Z8|50|
